@@ -12,7 +12,7 @@ public class Vehicle {
 
 
 
-    //17) copy notes and paste here
+    //17) copy notes
 
     /*
      Tariff period: December 2023, June 2023
