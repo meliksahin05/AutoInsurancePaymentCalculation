@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 public class Vehicle {
 
-    //new trying
+    //new trying git
     //melik
+    //Sout ekledim
 
     //17) copy notes and paste here
 
