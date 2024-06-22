@@ -10,6 +10,8 @@ public class Vehicle {
     //yeni
     //cakisma localle
 
+
+
     //17) copy notes and paste here
 
     /*
