@@ -14,6 +14,20 @@ public class Vehicle {
 
     //17) copy notes
 
+
+
+
+
+
+    //cakisma olusturdum localde
+
+
+
+
+
+    //17) copy notes and paste here
+
+
     /*
      Tariff period: December 2023, June 2023
       1st term: June 2023                      2nd term: December 2023
