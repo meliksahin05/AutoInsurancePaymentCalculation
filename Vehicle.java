@@ -8,6 +8,7 @@ public class Vehicle {
     //melik
     //Sout ekledim
     //yeni
+    //cakisma localle
 
     //17) copy notes and paste here
 
